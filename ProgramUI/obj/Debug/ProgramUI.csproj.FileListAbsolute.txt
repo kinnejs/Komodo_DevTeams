@@ -1,0 +1,10 @@
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\bin\Debug\ProgramUI.exe.config
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\bin\Debug\ProgramUI.exe
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\bin\Debug\ProgramUI.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\obj\Debug\ProgramUI.csproj.CoreCompileInputs.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\obj\Debug\ProgramUI.exe
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\obj\Debug\ProgramUI.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\obj\Debug\ProgramUI.csprojAssemblyReference.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\bin\Debug\DevTeamsProject.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\bin\Debug\DevTeamsProject.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\DevTeamsProject-master\ProgramUI\obj\Debug\ProgramUI.csproj.CopyComplete
